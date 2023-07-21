@@ -26,3 +26,11 @@ peculiarità tecnologiche e di design
 10. Ereditarietà
 11. Multithreading e sincronizzazione 
 12. Gradle
+
+## Piano didattico
+Per imparare per a programmare non basta conoscere un linguaggio solamente dal punto di vista prettamente
+morfologico e sintattico. Bisogna imparare a ragionare come un programmatore ed allenare la logica di
+programmazione, quindi proporremo alcuni esercizi strada facendo
+
+## Buona fortuna e divertitevi!
+***
