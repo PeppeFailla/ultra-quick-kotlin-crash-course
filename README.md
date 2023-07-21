@@ -1,16 +1,19 @@
-# La documentazione Kotlin definitva
+# La documentazione più veloce e diretta
 Abbiamo deciso di creare questa repository di GitHub per condividere con la community il materiale
 che abbiamo prodotto durante il nostro percorso di studio personale di Kotlin. 
 
-## A chi ci rivolgiamo
+Questa documentazione è pensata per essere una introduzione veloce e senza fronzoli al SOLO LINGUAGGIO.
+
+
+## A chi ci rivolgiamo?
 Ci rivolgiamo a tutte quelle persone, esperte di programmazione e non, che vogliono
 approcciarsi alla programmazione in Kotlin. Verranno ripresi brevemente tutti i concetti
-base della programmazione sia funzionale sia ad oggetti per permettere a tutti di
-comprendere cosa si sta facendo
+base della programmazione sia funzionale sia ad oggetti per rendere la documentazione
+più accessibile per i neofiti
 
 ## Cosa studieremo
-In questa documentazione non si fa puramente algoritmica, ma si studia il linguaggio in quanto tale
-nelle sue caratteristiche base. Sintassi, strutture dati di base, gestione di metodi e classi e 
+In questa documentazione non si fa algoritmica, bensì si studia il solo linguaggio in quanto tale e
+nelle sue caratteristiche di base quali sintassi, strutture dati di base, gestione di metodi e classi e 
 peculiarità tecnologiche e di design
 
 ## Argomenti trattati
