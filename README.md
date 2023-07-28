@@ -4,6 +4,9 @@ che abbiamo prodotto durante il nostro percorso di studio personale di Kotlin.
 
 Questa documentazione è pensata per essere una introduzione veloce e senza fronzoli al SOLO LINGUAGGIO.
 
+## Perché Kotlin
+Kotlin è un linguaggio di programmazione fatto per girare in JVM che è 100% interoperabile
+con Java, ma molto più semplice e conciso nella sintassi. 
 
 ## A chi ci rivolgiamo?
 Ci rivolgiamo a tutte quelle persone, esperte di programmazione e non, che vogliono
