@@ -1,0 +1,17 @@
+# Null Safety in Kotlin
+
+La Null Safety in Kotlin è un meccanismo atto a prevenire le `NullPointerException` la compilazione. In pratica, Kotlin richiede che tutte le variabili che potrebbero essere `null` siano esplicitamente dichiarate come `nullable` utilizzando il carattere "`?`" dopo il tipo di dato.
+
+## Cosa è la NullPointerException
+La **NullPointerException** è un errore di compilazione che si verifica quando quando si tenta di accedere a un oggetto o a una variabile che ha il valore `null`. Esiste perché sennò si potrebbero creare alcune inconsistenze nel codice. 
+
+## Definizione del dato
+Alla dichiarazione, una variabile è automaticamente considerata non-nullable e verrà considerata nullable solamente in presenza del ? alla fine del tipo nella dichiarazione della variabile. Esempio:
+
+
+Nullable: `var numero : Int? = 10`
+Non-Nullable: `var numero : Int = 10`
+
+Ciò significa che nel primo caso, se necessario, possiamo assegnare il valore di `numero` a null 
+
+
