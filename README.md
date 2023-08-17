@@ -21,17 +21,17 @@ peculiarità tecnologiche e di design
 
 ## Argomenti trattati
 0. Cosa è Kotlin e come installarlo (Linux/Windows/MacOS)
-1. Dichiarazione delle variabili
-2. Tipologie di dati primitivi
-3. Null Safety
-4. Operatori logici e matematici
-5. Condizioni (if, else, else if, when)
-6. Cicli
-7. Funzioni
-8. Classi
-9. Ereditarietà
-10. Multithreading e sincronizzazione 
-11. Gradle
+1. Variabili, costanti e tipologie di dato
+2. Operatori logici e matematici
+3. Condizioni (if, else, else if, when)
+4. La Null Safety
+5. Cicli
+6. Funzioni
+7. Classi
+8. Ereditarietà
+9. Multithreading e sincronizzazione 
+10. Gradle
+
 
 ## Piano didattico
 Per imparare per a programmare non basta conoscere un linguaggio solamente dal punto di vista prettamente
