@@ -6,7 +6,9 @@ Questa documentazione è pensata per essere una introduzione veloce e senza fron
 
 ## Perché Kotlin
 Kotlin è un linguaggio di programmazione fatto per girare in JVM che è 100% interoperabile
-con Java, ma molto più semplice e conciso nella sintassi. 
+con Java, ma molto più semplice e conciso nella sintassi. Oltre ad essere più efficiente
+di Java, poiché strutturato per risolverne i principali problemi, è pure lo standard di
+industria per lo sviluppo di app Android.
 
 ## A chi ci rivolgiamo?
 Ci rivolgiamo a tutte quelle persone, esperte di programmazione e non, che vogliono
