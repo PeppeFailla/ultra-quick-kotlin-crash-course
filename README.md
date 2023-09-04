@@ -28,9 +28,8 @@ peculiarità tecnologiche e di design
 5. Cicli
 6. Funzioni
 7. Classi
-8. Ereditarietà
-9. Multithreading e sincronizzazione 
-10. Gradle
+8. Coroutine
+11. Gradle
 
 
 ## Piano didattico
